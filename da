@@ -1,0 +1,90 @@
+[33mcommit 1a0db0b24c07d636a36b791ee054d2cc7a5ea2a3[m
+Merge: e25df36 c83e2eb
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 23:34:33 2017 +0800
+
+    conflict fixed
+
+[33mcommit e25df367eb7ff8fe41aa2f98a0d6a831e877ee92[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 23:27:24 2017 +0800
+
+    &simple
+
+[33mcommit c83e2eb3d356c3660f8ead80f6b733418a3bee19[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 23:26:39 2017 +0800
+
+    AND simple
+
+[33mcommit 5b6611b42b4cff1f34a7cbb43cbfb1cae7421062[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 23:22:39 2017 +0800
+
+    folder
+
+[33mcommit 8e6b73b0d81f82f0a77f1e61d4cd488c8d5727f7[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 23:17:01 2017 +0800
+
+    &simple
+
+[33mcommit 3588e0056ebde8be42a05c24e0df9239034c29e8[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 23:07:17 2017 +0800
+
+    branch test_1
+
+[33mcommit dd0e707b4868498abcb2c0de5ffc1368d8b9fcdb[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 23:05:41 2017 +0800
+
+    branch test
+
+[33mcommit f784a90311bd7081ee307315c94e50c3159cb740[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 21:44:02 2017 +0800
+
+    ceshi
+
+[33mcommit d8a5d5bfdf83e5560eea2653f8f33ddd486f7217[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 21:08:55 2017 +0800
+
+    remove test.txt
+
+[33mcommit 3669192942360f0fce3013efd3864ef3f7c3ba48[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 21:06:31 2017 +0800
+
+    add test.txt
+
+[33mcommit 8d7578715a32dc3f2882cec6ea081906184ea89a[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 20:57:49 2017 +0800
+
+    second modify
+
+[33mcommit 023792e15291bba1f21600b34f8b0e665a4f10b6[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 20:56:02 2017 +0800
+
+    git tracks changes
+
+[33mcommit 3b88f4977d153c444d62c13f72ac4335757b6e21[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 20:53:56 2017 +0800
+
+    understand how stage works
+
+[33mcommit d07921ed22a61c56d8c22c17ee7392bce034b735[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 20:44:28 2017 +0800
+
+    append GPL
+
+[33mcommit b33666dd200292303972a2d9f3ac65df171aa2b9[m
+Author: zhaoguorui1981 <zhaoguorui_1981@163.com>
+Date:   Fri May 12 20:35:37 2017 +0800
+
+    wrote a readme file
